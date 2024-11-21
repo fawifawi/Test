@@ -1,0 +1,3 @@
+Introduction
+
+Hello! My name is Fabien Wildhaber, and I have an academic background from EPFL/ETH in Physics (MSc and BSc) and Microtechnology (PhD). I have experience in hardware development, particularly in biomedical engineering, and software development. I co-founded a startup focused on developing innovative Augmented Reality(AR) technologies using light-modulated signals. I am in charge of the development of our product enabling multi-user interactions in AR: the Vizar Engine SDK supporting iOS, Android, and Unity platforms, built upon a C++ core.
